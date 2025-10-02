@@ -1,2 +1,2 @@
 # Deep_Learning_Projects
-Created deep learning repository
+This is where my Neural Network and other Deep Learning projects will be stored. This will be mostly the code base for the projects and not the problem definition analysis done (written on external reports).
